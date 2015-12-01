@@ -3,6 +3,7 @@
 build/
 *.backup/
 *.app/
+obj/
 *~
 *.pbxuser
 !default.pbxuser
